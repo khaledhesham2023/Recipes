@@ -6,7 +6,7 @@ a) Retrofit: A type-safe HTTP client to convert JSON Objects into Java/Kotlin co
 b) Kotlin Coroutines: For running data fetching in a background thread to improve performance of the app. <br>
 c) Navigation Component: To move between different destinations in the app. <br>
 d) Jetpack Compose: A modern toolkit for UI development. <br>
-e) Android Architeture components: using MVVM. <br>
+e) Android Architecture components: using MVVM. <br>
 f) Kotlin Programming Language. <br>
 g) Coil: an image loading library used for Compose Multiplatform.
 
