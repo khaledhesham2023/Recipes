@@ -12,3 +12,5 @@ g) Coil: an image loading library used for Compose Multiplatform.
 
 ![Screenshot (45)](https://github.com/user-attachments/assets/fbf55c3c-96f2-4d9a-937d-2f69da0de5cf)
 ![Screenshot (46)](https://github.com/user-attachments/assets/7fbafa2e-3739-40b3-a9fd-c2afe8c90013)
+
+Base URL is https://dummyjson.com/recipes
